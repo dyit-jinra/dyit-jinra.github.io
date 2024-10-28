@@ -4,8 +4,8 @@
 <head>
 <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<meta http-equiv="Content-Type" content="text/html; charset=big5">
-<title>新增網頁1</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>嚙編嚙磕嚙踝蕭嚙踝蕭1</title>
 </head>
 
 <body bgcolor="#FFFFFF">
@@ -18,8 +18,8 @@
 
 
 <p style="margin-top:10; margin-bottom:10; line-height:150%" align="left">
-<font size="4" color="#800000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 資料已送出 ， 我 們 將 儘 快 
-與 您 聯 絡! 或請來電 (06)208-8808  (04)2260-0001</font></p>
+<font size="4" color="#800000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 嚙踝蕭々w嚙箴嚙碼 嚙璀 嚙踝蕭 嚙踝蕭 嚙瞇 嚙踝蕭 嚙踝蕭 
+嚙瞑 嚙緲 嚙緘 嚙踝蕭! 嚙諄請來電 (06)208-8808  (04)2260-0001</font></p>
 
 
 <%
@@ -40,12 +40,12 @@
 
 '	To
 '	**
-	mySmartMail.Recipients.Add "dyit01@dyit.com.tw", "東怡科技有限公司"
+	mySmartMail.Recipients.Add "dyit01@dyit.com.tw", "嚙瘤嚙褕穿蕭犌嚙踝蕭嚙踝蕭嚙踝蕭q"
 
 '	Message
 '	*******
-	mySmartMail.Subject = "尋求試用" & request("product") & request("address")
-'	buf =  "公司:" & Company & "姓名:" & Name  & "地址:" & Address & "電話:" & phone & "行業:" & Item & "索取軟體:" & product
+	mySmartMail.Subject = "嚙瞎嚙瘩嚙調伐蕭" & request("product") & request("address")
+'	buf =  "嚙踝蕭嚙緬:" & Company & "嚙練嚙磕:" & Name  & "嚙窮嚙罷:" & Address & "嚙緬嚙踝蕭:" & phone & "嚙踝蕭~:" & Item & "嚙踝蕭嚙踝蕭嚙緯嚙踝蕭:" & product
  	mySmartMail.Body = "132sss" 
  	
 '	Send the message

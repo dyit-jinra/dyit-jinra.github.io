@@ -4,8 +4,8 @@
 <head>
 <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<meta http-equiv="Content-Type" content="text/html; charset=big5">
-<title>新增網頁1</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>嚙編嚙磕嚙踝蕭嚙踝蕭1</title>
 </head>
 
 <body>
